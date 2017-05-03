@@ -1,0 +1,232 @@
+date,gender,nation,jerk,born,bweight,pid,snatch,snatch3,snatch1,snatch2,rank_s,total,rank_cj,name,jerk1,rank,jerk3,jerk2,category,event
+04.2009,w,TUR,108,29.10.1983,47.71,0,88,88,81,85,---,196,---,TAYLAN Nurcan,100,1,*114,108,48,European Championships
+04.2009,w,MDA,96,08.11.1992,47.88,1,75,*79,75,*79,---,171,---,IOVU Cristina,*94,2,96,94,48,European Championships
+04.2009,w,POL,92,19.02.1988,47.68,2,78,*80,*78,78,---,170,---,KARPINSKA Marzena,92,3,*94,*94,48,European Championships
+04.2009,w,ITA,90,15.10.1988,47.63,3,72,*78,*72,72,---,162,---,PAGLIARO Genny Caterina,90,4,*93,*93,48,European Championships
+04.2009,w,FRA,84,12.01.1988,47.88,4,65,65,*62,62,---,149,---,MICHEL Anais,78,5,84,81,48,European Championships
+04.2009,w,BUL,80,22.06.1982,47.67,5,62,*65,*62,62,---,142,---,ANGELOVA Silviya,78,6,80,*80,48,European Championships
+04.2009,w,ROU,75,21.09.1994,46.37,6,60,*63,60,*63,---,135,---,ANDRIES Elena Ramona,75,7,*82,*80,48,European Championships
+04.2009,w,UKR,105,07.11.1984,52.32,7,87,87,84,86,---,192,---,TROTSENKO Nataliya,103,1,105,*105,53,European Championships
+04.2009,w,TUR,105,01.01.1982,52.57,8,82,82,*82,*82,---,187,---,DASDELEN Aylin,105,2,*111,*111,53,European Championships
+04.2009,w,TUR,103,15.07.1984,52.23,9,83,*85,80,83,---,186,---,BILGIN Emine,95,3,103,100,53,European Championships
+04.2009,w,POL,103,17.11.1988,52.67,10,81,*84,81,*84,---,184,---,LOCHOWSKA Joanna,100,4,*106,103,53,European Championships
+04.2009,w,BUL,102,10.05.1993,52.81,11,78,*80,75,78,---,180,---,KOSTOVA Boyanka Minkova,95,5,102,100,53,European Championships
+04.2009,w,ESP,101,18.07.1978,52.58,12,77,*79,77,*79,---,178,---,GUERRERO GONZALEZ Abigail,95,6,101,98,53,European Championships
+04.2009,w,FRA,96,21.03.1980,51.30,13,77,77,73,75,---,173,---,LACHAUME ANDRIEUX Virginie C. R.,93,7,*98,96,53,European Championships
+04.2009,w,POL,100,06.11.1986,52.81,14,73,*76,73,*76,---,173,---,ROWINSKA Malwina,100,8,*103,*103,53,European Championships
+04.2009,w,RUS,95,29.08.1979,51.01,15,74,*76,70,74,---,169,---,ULYANOVA Svetlana,90,9,*100,95,53,European Championships
+04.2009,w,ROU,95,11.03.1990,52.63,16,73,73,67,70,---,168,---,BERCHI Dana Alexandra,90,10,*97,95,53,European Championships
+04.2009,w,ROU,93,17.05.1989,52.38,17,71,*75,68,71,---,164,---,SCRIDON Anca,90,11,*95,93,53,European Championships
+04.2009,w,SWE,85,04.11.1978,52.53,18,71,71,66,69,---,156,---,BERNTSSON Lena Carina,85,12,*91,*91,53,European Championships
+04.2009,w,FRA,84,07.01.1988,52.62,19,68,68,*64,64,---,152,---,FLEURY Laura,82,13,*86,84,53,European Championships
+04.2009,w,ISR,80,23.07.1991,52.23,20,70,*73,70,*73,---,150,---,TRIFONOV Daria,80,14,*85,*85,53,European Championships
+04.2009,w,BEL,79,09.01.1986,52.53,21,62,*65,62,*65,---,141,---,De COSTER Sarah,79,15,*83,*83,53,European Championships
+04.2009,m,BEL,137,27.03.1975,55.71,22,115,115,109,112,---,252,---,GOEGEBUER Tom Richard,132,1,137,136,56,European Championships
+04.2009,m,ITA,138,16.04.1982,55.71,23,109,109,105,*109,---,247,---,DELLINO Vito,135,2,*143,138,56,European Championships
+04.2009,m,MDA,136,29.04.1976,55.64,24,110,110,*110,*110,---,246,---,GRABUCEA Igor,130,3,136,134,56,European Championships
+04.2009,m,TUR,135,09.06.1976,55.55,25,110,*115,*110,110,---,245,---,ARTUC Sedat,135,4,*142,*137,56,European Championships
+04.2009,m,MDA,132,09.07.1991,55.49,26,108,*111,*108,108,---,240,---,DUDOGLO Iuri,126,5,*136,132,56,European Championships
+04.2009,m,BUL,131,22.09.1989,55.97,27,108,108,*104,104,---,239,---,NAZIF Ferdi,131,6,*135,*134,56,European Championships
+04.2009,m,TUR,131,15.04.1980,55.74,28,107,107,*107,*107,---,238,---,GULBEYI Akti,131,7,*137,*136,56,European Championships
+04.2009,m,ROU,131,23.11.1988,55.67,29,100,100,95,*100,---,231,---,OLARU Gabriel,131,8,*137,*136,56,European Championships
+04.2009,m,ROU,129,13.07.1988,55.79,30,95,*98,90,95,---,224,---,GISCAN Marius,120,9,129,126,56,European Championships
+04.2009,m,FRA,125,26.12.1981,55.47,31,98,98,95,*98,---,223,---,ANDRIEUX Sylvain,120,10,125,124,56,European Championships
+04.2009,m,FRA,123,18.08.1974,55.79,32,100,*105,100,*105,---,223,---,BONNEL Eric,*123,11,123,*123,56,European Championships
+04.2009,m,POL,125,14.11.1987,55.92,33,98,98,94,*98,---,223,---,PRZEPIORKIEWICZ Maciej,*125,12,*128,125,56,European Championships
+04.2009,m,ESP,117,24.11.1985,55.35,34,105,*107,100,105,---,222,---,GUIRADO GARCIA Francisco Javier,117,13,*123,*123,56,European Championships
+04.2009,m,BUL,118,01.08.1991,55.07,35,103,103,*98,98,---,221,---,MURADOV Asen Selimov,118,14,*125,*125,56,European Championships
+04.2009,m,ESP,124,29.07.1990,54.83,36,95,*97,90,95,---,219,---,OTERO MARTINEZ Michael Steven,*117,15,124,117,56,European Championships
+04.2009,m,HUN,120,15.09.1982,55.18,37,98,98,*95,95,---,218,---,ADAM Robert,*120,16,120,*120,56,European Championships
+04.2009,m,SVK,121,28.10.1985,55.76,38,94,*98,*94,94,---,215,---,PALKOVIC Michal,115,17,121,*119,56,European Championships
+04.2009,m,GEO,---,22.11.1987,55.49,39,95,0.0,95,*100,---,0,---,SAMUKASHVILI Zviadi,0.0,---,0.0,0.0,56,European Championships
+04.2009,w,BLR,120,16.11.1981,57.83,40,96,96,92,94,---,216,---,NOVIKAVA Nastassia,116,1,*125,120,58,European Championships
+04.2009,w,UKR,117,24.10.1988,57.90,41,95,95,88,92,---,212,---,KALINA Yuliya,114,2,*121,117,58,European Championships
+04.2009,w,ALB,111,02.11.1986,57.57,42,96,96,93,*96,---,207,---,BEGAJ Romela,111,3,*115,*115,58,European Championships
+04.2009,w,ROU,114,05.06.1989,57.80,43,90,*92,85,90,---,204,---,COCOS Roxana Daniela,114,4,*118,*118,58,European Championships
+04.2009,w,UKR,107,22.06.1986,57.70,44,85,*87,*85,85,---,192,---,DERKACH Yuliya,102,5,107,105,58,European Championships
+04.2009,w,FRA,109,24.10.1984,57.78,45,82,*84,79,82,---,191,---,CHIQUET Agnes Charlotta Monique,105,6,*111,109,58,European Championships
+04.2009,w,BLR,95,12.04.1990,57.40,46,90,90,85,88,---,185,---,MISHCHUK Iryna,95,7,*100,*100,58,European Championships
+04.2009,w,GRE,100,11.04.1983,56.67,47,83,*85,80,83,---,183,---,KASTRITSI Charikleia,95,8,*102,100,58,European Championships
+04.2009,w,GRE,95,11.03.1990,57.41,48,87,87,*83,85,---,182,---,LAPOU Konstantina,95,9,*99,*99,58,European Championships
+04.2009,w,FIN,97,28.04.1987,57.51,49,76,76,74,*76,---,173,---,EVERI Anna-Maria,*95,10,97,95,58,European Championships
+04.2009,w,BUL,93,30.06.1990,57.90,50,80,80,75,78,---,173,---,NIKOLOVA Ivelina,93,11,*96,*96,58,European Championships
+04.2009,w,FIN,88,28.06.1986,57.32,51,77,*79,74,77,---,165,---,PUPUTTI Jenni Maria,84,12,88,*88,58,European Championships
+04.2009,w,DEN,82,28.04.1985,57.68,52,65,*70,65,*68,---,147,---,EJSTRUP Christina Trier,79,13,*84,82,58,European Championships
+04.2009,w,NED,58,30.03.1981,54.73,53,---,*50,*45,*45,---,0,---,TEEUWEN Ingrid,55,---,*61,58,58,European Championships
+04.2009,m,TUR,160,20.02.1987,61.70,54,133,133,*130,130,---,293,---,BILGIN Erol,155,1,160,*160,62,European Championships
+04.2009,m,AZE,160,02.11.1982,61.75,55,125,*127,120,125,---,285,---,SULEYMANOV Zulfugar,152,2,160,*157,62,European Championships
+04.2009,m,CYP,157,29.04.1989,61.59,56,127,127,*122,125,---,284,---,MINASIDIS Dimitris,149,3,157,152,62,European Championships
+04.2009,m,TUR,153,24.12.1982,61.54,57,123,*126,123,*125,---,276,---,SAHIN Higazi,147,4,*157,153,62,European Championships
+04.2009,m,MDA,150,09.07.1987,61.04,58,118,118,112,116,---,268,---,SIRGHI Oleg,150,5,*156,*153,62,European Championships
+04.2009,m,BUL,148,17.08.1986,61.93,59,120,120,117,*120,---,268,---,DZELEPOV Stoycho,148,6,*151,*151,62,European Championships
+04.2009,m,POL,140,23.11.1986,61.46,60,120,*122,115,120,---,260,---,WISNIEWSKI Damian,*140,7,140,*140,62,European Championships
+04.2009,m,ESP,140,17.01.1983,61.53,61,115,*117,110,115,---,255,---,GARCIA RUEDA Ivan,135,8,140,*140,62,European Championships
+04.2009,m,FIN,135,15.05.1989,61.30,62,111,*113,108,111,---,246,---,LINTULA Toni Antero,128,9,135,132,62,European Championships
+04.2009,m,CZE,140,25.11.1983,61.75,63,103,*106,*130,103,---,243,---,SLABY Petr,138,10,*144,140,62,European Championships
+04.2009,m,ESP,132,30.12.1990,61.35,64,110,110,*110,*110,---,242,---,HERNANDEZ MENDOZA Acoran Juan,132,11,*137,*137,62,European Championships
+04.2009,m,ITA,135,30.09.1983,61.08,65,105,*110,105,*109,---,240,---,RUBINO Massimiliano,130,12,*141,135,62,European Championships
+04.2009,m,HUN,125,15.08.1990,61.55,66,108,108,100,105,---,233,---,LERCH Zsolt,120,13,125,*125,62,European Championships
+04.2009,m,BUL,---,28.08.1990,61.87,67,120,120,117,*120,---,0,---,URUMOV Vladimir Marinov,*146,---,*148,*146,62,European Championships
+04.2009,m,ROU,---,21.01.1990,61.80,68,121,*125,121,*125,---,0,---,BUCI Antoniu,*149,---,0.0,*149,62,European Championships
+04.2009,m,ROU,---,25.08.1985,61.50,69,122,*124,*122,122,---,0,---,VELICIU Ioan Forin,*144,---,0.0,0.0,62,European Championships
+04.2009,m,ALB,---,03.09.1987,61.15,70,98,*104,*98,98,---,0,---,CENAJ Siljan,*122,---,0.0,*122,62,European Championships
+04.2009,w,TUR,128,10.10.1984,62.55,71,108,108,103,105,---,236,---,SIMSEK Sibel,125,1,*132,128,63,European Championships
+04.2009,w,NOR,124,10.06.1982,62.31,72,107,107,101,104,---,231,---,KASIRYE Ruth Nanozzi,124,2,*128,*128,63,European Championships
+04.2009,w,RUS,128,25.12.1987,62.77,73,103,103,95,100,---,231,---,TSARUKAEVA Svetlana,120,3,128,125,63,European Championships
+04.2009,w,ARM,128,20.04.1988,62.64,74,100,*104,*100,100,---,228,---,DALUZYAN Meline,120,4,128,125,63,European Championships
+04.2009,w,POL,112,11.09.1980,62.34,75,97,97,92,95,---,209,---,GOTFRYD Marieta,108,5,*114,112,63,European Championships
+04.2009,w,CZE,114,20.09.1983,62.81,76,90,90,87,*90,---,204,---,ORSAGOVA Lenka,110,6,*117,114,63,European Championships
+04.2009,w,POL,109,25.07.1985,62.77,77,90,90,*88,88,---,199,---,SMOSARSKA Anna,109,7,0.0,*113,63,European Championships
+04.2009,w,FRA,107,16.07.1982,62.23,78,91,*93,88,91,---,198,---,MERAL-SUNAR Muslime,*107,8,107,*107,63,European Championships
+04.2009,w,BLR,108,03.10.1975,62.36,79,89,*92,85,89,---,197,---,STUKALAVA Tatsiana,100,9,108,105,63,European Championships
+04.2009,w,ISR,103,02.01.1983,62.74,80,87,*89,*87,87,---,190,---,OHMAN Marina,*103,10,*105,103,63,European Championships
+04.2009,w,ESP,102,20.12.1990,62.68,81,80,*82,75,80,---,182,---,RAMOS GONZALEZ Sheila ,97,11,102,*102,63,European Championships
+04.2009,w,ESP,94,30.08.1979,61.56,82,74,74,70,*74,---,168,---,VICENTE Antonia,90,12,94,*94,63,European Championships
+04.2009,w,ROU,91,16.02.1989,62.83,83,67,*70,63,67,---,158,---,MUREANU Eliza,88,13,*94,91,63,European Championships
+04.2009,w,BIH,80,01.01.1988,62.54,84,62,62,*62,*62,---,142,---,NEVJESTIC Ljubica,75,14,80,78,63,European Championships
+04.2009,w,FIN,---,11.12.1981,62.89,85,80,*83,*80,80,---,0,---,HARJU Heidi Maria,*97,---,*97,*97,63,European Championships
+04.2009,m,ARM,185,21.10.1989,68.33,86,151,*154,145,151,---,336,---,MIRZOYAN Arakel,180,1,185,*185,69,European Championships
+04.2009,w,RUS,140,20.12.1986,68.55,87,115,115,106,111,---,255,---,SLIVENKO Oxana,136,1,140,*140,69,European Championships
+04.2009,w,ARM,135,31.10.1986,68.54,88,110,110,105,*110,---,245,---,AVDALYAN Nazik,135,2,*145,*145,69,European Championships
+04.2009,m,FRA,186,28.04.1981,68.34,89,147,*149,144,147,---,333,---,DABAYA TIENTCHEU Vencelas,181,2,186,*185,69,European Championships
+04.2009,m,RUS,183,28.10.1984,68.75,90,147,147,143,*147,---,330,---,LUKANIN Vladislav,177,3,*190,183,69,European Championships
+04.2009,w,RUS,137,26.02.1985,68.40,91,102,*105,98,102,---,239,---,MATVEEVA Tatiana,130,3,*141,137,69,European Championships
+04.2009,m,AZE,182,14.10.1983,68.46,92,147,147,141,145,---,329,---,BAYRAMOV Afgan,175,4,*186,182,69,European Championships
+04.2009,w,UKR,130,02.11.1985,68.38,93,108,108,103,106,---,238,---,ARTEMOVA Yulia,123,4,130,127,69,European Championships
+04.2009,w,POL,117,18.07.1987,68.41,94,97,97,92,95,---,214,---,MIZDAL Ewa Justyna,112,5,117,115,69,European Championships
+04.2009,m,ROU,173,15.05.1985,68.28,95,150,150,145,*150,---,323,---,MICULESCU Ninel,173,5,*178,*178,69,European Championships
+04.2009,w,UKR,113,31.03.1988,68.14,96,98,*100,95,98,---,211,---,BAIEVA Daria,108,6,*117,113,69,European Championships
+04.2009,m,TUR,173,20.02.1980,68.86,97,142,*146,138,142,---,315,---,CELIL Ekrem,*172,6,173,*172,69,European Championships
+04.2009,w,GER,111,13.05.1987,68.85,98,94,94,89,92,---,205,---,WEDOW Mandy Bianca,108,7,*113,111,69,European Championships
+04.2009,m,TUR,165,20.08.1987,68.83,99,141,*146,135,141,---,306,---,AGILLI Ekrem,*165,7,165,*165,69,European Championships
+04.2009,m,AZE,165,12.05.1985,67.70,100,138,138,125,132,---,303,---,HASANOV Sardar,158,8,*172,165,69,European Championships
+04.2009,w,GER,112,09.06.1984,68.63,101,91,91,86,89,---,203,---,KRANZ Yvonne,112,8,*116,*116,69,European Championships
+04.2009,m,UKR,168,05.12.1980,68.68,102,131,*135,*131,131,---,299,---,SKVORODNYEV Oleksiy,160,9,168,164,69,European Championships
+04.2009,w,SVK,106,15.09.1981,68.67,103,89,89,*89,*89,---,195,---,TROJCAKOVA Lucia,106,9,*110,*110,69,European Championships
+04.2009,m,ESP,163,16.10.1988,68.84,104,132,132,127,*132,---,295,---,MORILLAS SANCHEZ Isaac Julian,163,10,*168,*168,69,European Championships
+04.2009,w,HUN,100,24.01.1988,65.56,105,78,*82,78,*82,---,178,---,BAZSO Bianka,97,10,*103,100,69,European Championships
+04.2009,w,ESP,95,01.05.1990,66.99,106,80,*83,80,*83,---,175,---,GONZALES Chaxiraxi,95,11,*100,*100,69,European Championships
+04.2009,m,ALB,157,19.02.1990,67.81,107,133,*137,*130,133,---,290,---,CALJA Briken,157,11,0.0,*163,69,European Championships
+04.2009,m,MDA,160,21.11.1989,68.10,108,128,*135,128,*132,---,288,---,SPAC Alexandr,155,12,160,*160,69,European Championships
+04.2009,m,ALB,157,10.01.1992,67.33,109,130,*135,130,*135,---,287,---,GODELLI Daniel,157,13,*162,*162,69,European Championships
+04.2009,m,ITA,163,16.02.1975,68.69,110,122,122,117,*122,---,285,---,BOMBACI Maurizio,155,14,163,160,69,European Championships
+04.2009,m,POL,155,18.08.1986,68.98,111,129,129,*127,*129,---,284,---,KUCZYNSKI Damian Lukasz,*155,15,*160,155,69,European Championships
+04.2009,m,FIN,151,22.07.1982,68.32,112,118,*122,118,*122,---,269,---,KUUSISTO Mikko Johannes,148,16,*155,151,69,European Championships
+04.2009,w,NOR,107,07.12.1987,67.53,113,---,*89,*86,*89,---,0,---,JORDALEN Anja-Evelin,107,---,*110,*110,69,European Championships
+04.2009,m,ITA,150,12.08.1987,68.96,114,---,*120,*120,*120,---,0,---,GRECO Emanuele,150,---,0.0,*155,69,European Championships
+04.2009,w,CZE,100,03.10.1984,67.88,115,---,*82,*80,*80,---,0,---,KLADIVOVA Pavla,95,---,*104,100,69,European Championships
+04.2009,w,ROU,90,30.10.1987,68.11,116,---,*65,*65,*65,---,0,---,MICU Denisse,85,---,*93,90,69,European Championships
+04.2009,m,ARM,---,12.09.1985,68.41,117,140,*145,140,*145,---,0,---,KAKOYAN Gevorg,*160,---,*160,*160,69,European Championships
+04.2009,w,RUS,145,15.08.1985,73.80,118,120,120,112,118,---,265,---,ZABOLOTNAYA Natalya,140,1,0.0,145,75,European Championships
+04.2009,w,ARM,137,27.07.1987,74.41,119,116,*120,111,116,---,253,---,KHURSHUDYAN Hripsime,137,2,*150,*145,75,European Championships
+04.2009,w,ESP,132,10.02.1985,74.35,120,120,120,112,117,---,252,---,VALENTIN PEREZ Lidia,*132,3,132,*132,75,European Championships
+04.2009,w,UKR,130,25.03.1984,73.89,121,108,108,103,106,---,238,---,MIRONYUK Nadiya,125,4,*133,130,75,European Championships
+04.2009,w,BLR,118,06.05.1989,74.33,122,111,*116,107,111,---,229,---,NOVAKOVICH Yuliya,118,5,*128,*125,75,European Championships
+04.2009,w,BUL,120,15.10.1982,73.60,123,102,*105,100,102,---,222,---,PETKOVA Rumyana,*120,6,*123,120,75,European Championships
+04.2009,w,TUR,118,14.09.1984,74.45,124,101,101,*95,95,---,219,---,BAYDAR Gulsah,110,7,*121,118,75,European Championships
+04.2009,w,BUL,108,12.01.1986,73.83,125,92,92,87,90,---,200,---,BOZHILOVA Desislava,108,8,0.0,*111,75,European Championships
+04.2009,w,ESP,111,30.12.1988,74.82,126,87,*89,84,87,---,198,---,ALONSO Raquel,103,9,111,107,75,European Championships
+04.2009,w,SWE,105,10.09.1976,70.81,127,85,*87,83,85,---,190,---,BERNTSSON Annika,*102,10,105,102,75,European Championships
+04.2009,w,GRE,100,10.07.1987,74.34,128,83,*87,83,*87,---,183,---,ANANIADOU Eftychia,100,11,*105,*105,75,European Championships
+04.2009,m,BLR,189,16.11.1986,76.68,129,155,*157,150,155,---,344,---,CHARNIAK Mikalai,183,1,189,187,77,European Championships
+04.2009,m,ALB,190,10.08.1988,76.45,130,152,*156,152,*156,---,342,---,QERIMAJ Erkand,186,2,*192,190,77,European Championships
+04.2009,m,RUS,185,27.12.1981,76.33,131,156,156,151,155,---,341,---,IVANENKO Dmitry,181,3,185,*185,77,European Championships
+04.2009,m,AZE,186,08.12.1982,76.32,132,151,*153,146,151,---,337,---,JAMILOV Namig,181,4,*188,186,77,European Championships
+04.2009,m,POL,189,04.12.1984,76.71,133,145,145,*140,140,---,334,---,CHRUSCIEWICZ Piotr Patryk,182,5,*193,189,77,European Championships
+04.2009,m,ROU,180,30.04.1987,75.50,134,148,148,140,145,---,328,---,ROSU Alexandru,180,6,*186,*186,77,European Championships
+04.2009,m,UKR,175,09.12.1988,76.56,135,150,*155,150,*155,---,325,---,CHYKYDA Iurii,170,7,*178,175,77,European Championships
+04.2009,m,SVK,170,15.04.1976,76.86,136,155,*157,150,155,---,325,---,GUMAN Viktor,165,8,*175,170,77,European Championships
+04.2009,m,ROU,177,21.12.1988,76.51,137,143,143,*143,*143,---,320,---,SINCRAIAN Gabriel,*177,9,177,*177,77,European Championships
+04.2009,m,FIN,168,10.04.1983,76.05,138,132,132,*132,*132,---,300,---,NYSTROM Johan,*168,10,168,*168,77,European Championships
+04.2009,m,ITA,167,05.11.1988,76.57,139,127,*132,127,*132,---,294,---,CANGEMI Enrico,160,11,*170,167,77,European Championships
+04.2009,m,SUI,150,15.03.1987,76.09,140,117,*122,117,*122,---,267,---,TERMIGNONE Dany,145,12,*152,150,77,European Championships
+04.2009,m,IRL,140,15.08.1986,73.46,141,105,*109,*105,105,---,245,---,BYRD Cathal,136,13,*142,140,77,European Championships
+04.2009,m,AUT,---,01.12.1985,75.83,142,144,*147,140,144,---,0,---,NAZARIAN Edvard,*162,---,*162,*162,77,European Championships
+04.2009,m,ESP,---,26.11.1986,76.60,143,142,*147,142,*147,---,0,---,CASADO Jose,*170,---,*170,*170,77,European Championships
+04.2009,m,CRO,---,21.03.1987,76.56,144,148,148,*145,145,---,0,---,MUSIC Amar,*176,---,*176,*176,77,European Championships
+04.2009,m,MDA,---,16.09.1980,76.21,145,---,*145,*143,*143,---,0,---,GUTU Andrei,0.0,---,0.0,0.0,77,European Championships
+04.2009,m,RUS,205,11.01.1986,84.65,146,164,164,*158,159,---,369,---,YUFKIN Alexey,*200,1,205,200,85,European Championships
+04.2009,m,AZE,200,21.04.1985,84.60,147,168,*171,165,168,---,368,---,ZAIROV Intigam,200,2,*205,*205,85,European Championships
+04.2009,m,BLR,201,13.06.1986,83.46,148,166,166,161,*166,---,367,---,NOVIKAU Mikalai,196,3,*205,201,85,European Championships
+04.2009,m,FRA,204,24.08.1984,84.53,149,162,162,157,*162,---,366,---,HENNEQUIN Benjamin Didier,200,4,*207,204,85,European Championships
+04.2009,m,POL,196,28.03.1989,84.86,150,167,167,*162,162,---,363,---,ZIELINSKI Adrian Edward,190,5,*200,196,85,European Championships
+04.2009,m,ALB,196,22.09.1989,84.57,151,166,166,158,163,---,362,---,TABAKU Ervis,187,6,196,193,85,European Championships
+04.2009,m,FRA,198,05.06.1975,84.74,152,164,164,*159,159,---,362,---,MATAM MATAM David Hercule,*190,7,198,190,85,European Championships
+04.2009,m,ARM,194,13.03.1984,84.50,153,164,164,155,160,---,358,---,POGHOSYAN Gevorik,194,8,*199,*198,85,European Championships
+04.2009,m,ARM,193,20.09.1988,84.60,154,160,*164,155,160,---,353,---,ANDRIKYAN Aram,193,9,*200,*199,85,European Championships
+04.2009,m,UKR,195,20.06.1981,84.60,155,157,157,150,154,---,352,---,SELIVANOV Kostyantyn,190,10,*197,195,85,European Championships
+04.2009,m,POL,190,26.07.1976,84.62,156,160,*165,160,*165,---,350,---,RYTKOWSKI Mariusz,190,11,*196,*195,85,European Championships
+04.2009,m,ALB,185,27.08.1986,84.57,157,160,160,152,*160,---,345,---,HAXHIHYSENI Endri,185,12,0.0,0.0,85,European Championships
+04.2009,m,TUR,187,01.05.1982,84.66,158,158,*166,*158,158,---,345,---,SUNAR Erdal,187,13,*194,*194,85,European Championships
+04.2009,m,BUL,191,25.05.1986,84.54,159,152,*157,*152,152,---,343,---,KOMAREVSKI Vladislav,191,14,*200,*200,85,European Championships
+04.2009,m,SVK,180,24.05.1985,84.10,160,160,*163,155,160,---,340,---,TKAC Richard,180,15,*187,*185,85,European Championships
+04.2009,m,ROU,188,04.03.1988,82.54,161,150,*153,145,150,---,338,---,RUSU Razvan,180,16,188,185,85,European Championships
+04.2009,m,GRE,182,15.12.1986,83.93,162,148,*150,142,148,---,330,---,DEMELIDIS Eleftherios,173,17,182,180,85,European Championships
+04.2009,m,SVK,178,08.08.1982,84.52,163,152,*155,148,152,---,330,---,SVRCEK Pavol,174,18,*181,178,85,European Championships
+04.2009,m,ISR,176,23.08.1981,84.35,164,149,149,140,146,---,325,---,KOLOSOVSKI Pavel,176,19,*190,*183,85,European Championships
+04.2009,m,ESP,185,14.08.1985,84.45,165,140,*145,140,*145,---,325,---,MENDEZ Adriano,178,20,0.0,185,85,European Championships
+04.2009,m,LAT,180,17.06.1987,84.02,166,142,*148,*142,142,---,322,---,KOVTUNS Vitalijs,*178,21,*185,180,85,European Championships
+04.2009,m,ITA,175,29.02.1976,84.20,167,142,142,*138,138,---,317,---,DI MARZIO Marco,165,22,*177,175,85,European Championships
+04.2009,m,FIN,176,20.11.1988,84.91,168,140,0.0,135,140,---,316,---,ANTTIROIKO Miika Matias,*176,23,*180,176,85,European Championships
+04.2009,m,ESP,175,11.09.1987,84.80,169,130,*135,130,*135,---,305,---,MARTINEZ Teddy,170,24,*180,175,85,European Championships
+04.2009,m,NED,130,10.08.1987,83.75,170,105,*115,105,*112,---,235,---,EKICI Safak,130,25,*140,*140,85,European Championships
+04.2009,m,FIN,163,21.06.1978,84.26,171,---,*135,*135,*135,---,0,---,HARTIKAINEN Iiro,*160,---,*166,163,85,European Championships
+04.2009,m,BUL,---,29.03.1987,84.81,172,---,160,155,159,DSQ,0,DSQ,BOEV Plamen,195,DSQ,203,200,85,European Championships
+04.2009,m,GER,212,26.03.1984,93.15,173,178,178,170,175,---,390,---,SPIESS Jurgen Christian,208,1,*218,212,94,European Championships
+04.2009,m,GRE,210,01.04.1986,93.53,174,175,*177,170,175,---,385,---,KOURTIDIS Nikolaos,210,2,*216,*216,94,European Championships
+04.2009,m,RUS,210,15.07.1985,93.86,175,170,*175,*170,170,---,380,---,DEMANOV Andrey,*210,3,210,*210,94,European Championships
+04.2009,m,AZE,205,26.03.1987,93.59,176,161,*166,*161,161,---,366,---,FATULLAYEV Rovshan,201,4,*211,205,94,European Championships
+04.2009,m,UKR,200,03.06.1987,92.77,177,165,165,*160,160,---,365,---,GORIN Oleksandr,191,5,200,196,94,European Championships
+04.2009,m,LTU,200,07.05.1980,90.60,178,161,161,*155,155,---,361,---,ANUSKEVICIUS Donatas,195,6,*202,200,94,European Championships
+04.2009,m,CZE,184,09.08.1987,93.37,179,144,*146,140,144,---,328,---,CIBULKA Lukas,180,7,*187,184,94,European Championships
+04.2009,m,NOR,181,04.10.1981,93.05,180,145,*150,145,*150,---,326,---,HORDNES Per,175,8,181,*181,94,European Championships
+04.2009,m,ALB,180,26.07.1987,87.55,181,145,*150,145,*150,---,325,---,CEREPI Taulant,175,9,*185,180,94,European Championships
+04.2009,m,HUN,175,18.01.1985,85.25,182,145,*147,140,145,---,320,---,CSER Norbert,170,10,*180,175,94,European Championships
+04.2009,m,LTU,180,31.08.1982,93.19,183,140,*145,140,*145,---,320,---,PANGONIS Romas,*180,11,*187,180,94,European Championships
+04.2009,m,HUN,168,28.01.1985,88.76,184,142,*146,137,142,---,310,---,GRANER Zoltan,168,12,*172,*172,94,European Championships
+04.2009,m,IRL,156,20.03.1985,92.17,185,117,117,112,*117,---,273,---,DARCY Kevin Jarlath,152,13,*161,156,94,European Championships
+04.2009,m,SMR,150,03.11.1974,91.00,186,120,*123,115,120,---,270,---,GUIDI Stefano,*150,14,*155,150,94,European Championships
+04.2009,m,LAT,185,15.12.1979,91.37,187,---,*150,*150,*150,---,0,---,USOVSKIS Dmitrijs,185,---,0.0,*190,94,European Championships
+04.2009,m,UKR,---,16.12.1987,93.77,188,182,182,175,179,---,0,---,IVANOV Artem,*210,---,*210,*210,94,European Championships
+04.2009,m,GRE,---,30.05.1987,93.58,189,---,*155,*152,*152,DSQ,0,DSQ,TRIANTAFYLLOU Anastasios,185,DSQ,*195,190,94,European Championships
+04.2009,m,RUS,221,25.01.1980,104.03,190,190,*195,185,190,---,411,---,SMORCHKOV Vladimir,217,1,221,*221,105,European Championships
+04.2009,m,UKR,224,22.05.1986,104.24,191,181,181,172,177,---,405,---,TOROKHTIY Oleksiy,213,2,224,*220,105,European Championships
+04.2009,m,LTU,223,23.09.1976,104.68,192,182,*185,*182,182,---,405,---,VYSNIAUSKAS Ramunas,223,3,*225,*225,105,European Championships
+04.2009,m,RUS,215,15.08.1983,100.00,193,183,183,175,180,---,398,---,KONSTANTINOV Roman,215,4,*222,*222,105,European Championships
+04.2009,m,POL,217,31.12.1977,104.68,194,181,181,175,179,---,398,---,DOLEGA Robert,210,5,*222,217,105,European Championships
+04.2009,m,GEO,211,26.02.1985,103.40,195,180,*184,180,*184,---,391,---,MACHAVARIANI Gia,*211,6,*227,211,105,European Championships
+04.2009,m,ARM,207,17.11.1983,104.41,196,175,*179,168,175,---,382,---,BABAYAN Artur,*207,7,*215,207,105,European Championships
+04.2009,m,LTU,200,02.10.1985,103.37,197,180,180,170,*177,---,380,---,SIMKUS Modestas,191,8,*206,200,105,European Championships
+04.2009,m,AZE,207,26.03.1982,98.91,198,165,165,*160,160,---,372,---,SAMADOV Alibay,201,9,*215,207,105,European Championships
+04.2009,m,TUR,205,01.04.1982,103.90,199,165,*172,165,*172,---,370,---,YILMAZ Hakan,205,10,*212,*212,105,European Championships
+04.2009,m,GRE,195,05.02.1985,103.81,200,165,165,155,161,---,360,---,SATZIAN Grigor,190,11,*200,195,105,European Championships
+04.2009,m,GRE,195,12.03.1981,97.31,201,157,*160,152,157,---,352,---,GARIPIS Konstantinos,187,12,195,192,105,European Championships
+04.2009,m,LAT,191,06.02.1989,104.50,202,161,161,152,158,---,352,---,MENSIKOVS Ilja,191,13,*200,*197,105,European Championships
+04.2009,m,GBR,175,14.11.1978,104.47,203,145,*150,145,*150,---,320,---,CHEEMA Gurbinder,170,14,175,*175,105,European Championships
+04.2009,m,SLO,140,25.01.1981,100.63,204,105,*110,105,*110,---,245,---,PETERCA Bostjan,140,15,*145,*145,105,European Championships
+04.2009,w,RUS,155,24.01.1991,88.72,205,125,125,117,122,---,280,---,KASHIRINA Tatiana,150,1,*160,155,p75,European Championships
+04.2009,w,RUS,143,10.09.1983,103.38,206,110,110,*105,105,---,253,---,GAGARINA Natalia,135,2,0.0,143,p75,European Championships
+04.2009,w,UKR,141,02.06.1983,90.62,207,111,*118,108,111,---,252,---,DOVHAL Yuliya,136,3,141,*141,p75,European Championships
+04.2009,w,TUR,137,01.01.1986,91.16,208,107,107,*100,100,---,244,---,UCAR Ummuhan,125,4,137,*136,p75,European Championships
+04.2009,w,GER,131,16.12.1982,92.05,209,102,102,98,*102,---,233,---,SCHOPPE Kathleen,126,5,*134,131,p75,European Championships
+04.2009,w,TUR,120,27.01.1978,89.06,210,108,108,100,*107,---,228,---,SAHBAZ Sule,120,6,*126,*126,p75,European Championships
+04.2009,w,GRE,120,08.07.1991,105.89,211,108,108,101,*106,---,228,---,MAVRIDOU Victoria,*120,7,*127,120,p75,European Championships
+04.2009,w,POL,125,19.10.1985,97.14,212,100,*103,97,100,---,225,---,BAGINSKA Sabina Hanna,125,8,*130,*130,p75,European Championships
+04.2009,w,ITA,120,09.07.1985,94.61,213,92,*97,*92,92,---,212,---,CAMPALDINI Annarosa,115,9,120,*120,p75,European Championships
+04.2009,w,ROU,106,18.11.1993,101.81,214,91,91,85,*91,---,197,---,AANEI Andreea,*104,10,106,*106,p75,European Championships
+04.2009,w,HUN,103,02.03.1989,101.03,215,90,90,85,88,---,193,---,MAGAT Krisztina,103,11,*107,*107,p75,European Championships
+04.2009,w,ESP,100,07.02.1992,83.10,216,80,80,75,78,---,180,---,ARCHANCO DOMINGUEZ Maria De Las M.,94,12,100,98,p75,European Championships
+04.2009,m,UKR,230,27.05.1986,132.10,217,203,203,195,200,---,433,---,SHYMECHKO Ihor,223,1,*233,230,p105,European Championships
+04.2009,m,GER,228,22.08.1981,130.50,218,190,190,182,187,---,418,---,VELAGIC Almir,222,2,228,*227,p105,European Championships
+04.2009,m,RUS,225,17.08.1988,137.80,219,193,193,187,*193,---,418,---,PISAREV Evgeny,225,3,*233,*231,p105,European Championships
+04.2009,m,POL,229,12.11.1977,131.80,220,182,*187,182,*187,---,411,---,KLESZCZ Grzegorz,*228,4,*236,229,p105,European Championships
+04.2009,m,HUN,220,16.01.1986,142.35,221,188,188,175,182,---,408,---,NAGY Peter,205,5,220,212,p105,European Championships
+04.2009,m,CZE,220,05.01.1989,116.52,222,175,175,165,170,---,395,---,ORSAG Jiri,210,6,220,*220,p105,European Championships
+04.2009,m,CZE,205,30.04.1975,155.06,223,168,*172,163,168,---,373,---,SOBOTKA Petr,195,7,*214,205,p105,European Championships
+04.2009,m,FIN,198,22.12.1981,139.05,224,160,*163,*160,160,---,358,---,EVERI Antti,192,8,198,196,p105,European Championships
+04.2009,m,SVK,190,23.08.1988,125.65,225,155,0.0,155,*160,---,345,---,KRUZEL Ondrej,190,9,*204,*202,p105,European Championships
+04.2009,m,CRO,185,08.04.1986,120.79,226,155,*160,150,155,---,340,---,VUKOVIC Ante,180,10,185,*185,p105,European Championships
+04.2009,m,ITA,190,16.05.1969,111.48,227,147,0.0,147,*155,---,337,---,ROVATTI Andrea,180,11,0.0,190,p105,European Championships
+04.2009,m,LTU,---,03.04.1983,107.97,228,154,*160,154,*160,---,0,---,REMEZA Egidijus,*191,---,*192,*191,p105,European Championships
+04.2009,m,RUS,---,29.05.1986,112.73,229,---,*185,*185,*185,---,0,---,LUKANIN Igor,*220,---,*220,*220,p105,European Championships
+04.2009,m,ARM,---,14.03.1990,141.98,230,187,*192,187,*192,---,0,---,ALEKSANYAN Ruben,0.0,---,0.0,0.0,p105,European Championships
